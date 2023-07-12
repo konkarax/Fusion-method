@@ -1,0 +1,8 @@
+0: Car
+1: Van
+2: Truck
+3: Bus
+4: Motorbike
+5: Bicycle
+6: Pedestrian
+7: Group of Pedestrians
